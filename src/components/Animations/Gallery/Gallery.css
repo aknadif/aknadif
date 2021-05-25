@@ -1,0 +1,10 @@
+img {
+    max-width: none;
+    object-fit: contain;
+    width: 800px;
+    height: 600px;
+}
+img.col-md-4{
+    width: 500px;
+    height: 300px;
+}
