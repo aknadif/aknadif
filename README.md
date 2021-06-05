@@ -8,9 +8,10 @@
 
 
 - 👋 Hi, I’m @aknadif
-- 🌱 I’m currently learning STMIK AMIKOM Surakarta
+- 👀 I’m interested in Website Developer
 - You can reach me on my email 'aknadif58@gmail.com'
-<!-- - 👀 I’m interested in Website Developer -->
+- <!-- - 🌱 I’m currently learning STMIK AMIKOM Surakarta -->
+
 
 ### Spotify Playing 🎧
 
