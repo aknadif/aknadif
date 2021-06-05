@@ -1,10 +1,15 @@
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/panggil_AK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpanggil_AK&screen_name=panggil_AK)
-
+### Introduce Me
 - 👋 Hi, I’m @aknadif
 - 👀 I’m interested in Website Developer
 - 🌱 I’m currently learning STMIK AMIKOM Surakarta
 - You can reach me on my email 'aknadif58@gmail.com'
+
+### Follow on my social media
+[![Twitter Follow](https://img.shields.io/twitter/follow/panggil_AK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpanggil_AK&screen_name=panggil_AK)
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-	aknadif58.vercel.app/api/spotify-playing" alt="aknadif58 Spotify Playing" width="350" />](https://open.spotify.com/user/aknadif58)
 
 <!---
 aknadif/aknadif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
