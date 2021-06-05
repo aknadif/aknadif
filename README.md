@@ -9,7 +9,7 @@
 
 ## Follow My Social Media
 
-[![Website](https://img.shields.io/website?label=aknadhif.me&style=flate-square&url=https%3A%2F%2Fcodestackr.com)](https://aknadhif.me)
+[![Website](https://img.shields.io/website?label=aknadhif.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://aknadhif.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/panggil_AK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpanggil_AK&screen_name=panggil_AK)
 <br />
 
