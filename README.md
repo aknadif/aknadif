@@ -9,8 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-	aknadif58.vercel.app/api/spotify-playing" alt="aknadif58 Spotify Playing" width="350" />](https://open.spotify.com/user/aknadif58)
-
+[<img src="https://spotify-now-playing-beige.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/aknadif58)
 <!---
 aknadif/aknadif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
