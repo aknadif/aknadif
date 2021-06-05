@@ -13,7 +13,7 @@
 <!-- - 🌱 I’m currently learning STMIK AMIKOM Surakarta -->
 
 
-### Spotify Playing 🎧
+### Now My Spotify Playing 👇
 
 [<img src="https://spotify-now-playing-beige.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/aknadif58)
 <!---
