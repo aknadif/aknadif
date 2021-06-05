@@ -10,7 +10,7 @@
 - 👋 Hi, I’m @aknadif
 - 👀 I’m interested in Website Developer
 - You can reach me on my email 'aknadif58@gmail.com'
-- <!-- - 🌱 I’m currently learning STMIK AMIKOM Surakarta -->
+<!-- - 🌱 I’m currently learning STMIK AMIKOM Surakarta -->
 
 
 ### Spotify Playing 🎧
