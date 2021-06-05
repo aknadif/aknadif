@@ -7,10 +7,11 @@
 - You can reach me on my email 'aknadif58@gmail.com'
 
 
-### Follow My Social Media
+## Follow My Social Media
 
 [![Website](https://img.shields.io/website?label=aknadhif.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://aknadhif.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/panggil_AK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpanggil_AK&screen_name=panggil_AK)
+<br />
 
 ### Spotify Playing 🎧
 
@@ -26,9 +27,7 @@ Github Stats :
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aknadif&show_icons=true&theme=tokyonight)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aknadif&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aknadif&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aknadif&layout=compact&theme=tokyonight)
 
 
 
